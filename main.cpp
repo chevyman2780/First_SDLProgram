@@ -43,7 +43,7 @@ int main(int argc, char** args) {
     SDL_Window* window = NULL;
     SDL_Renderer* renderer = NULL;
 
-    buildWindow(argc, args, window, renderer, 1280, 720, 255, 255, 255 );
+    buildWindow(argc, args, window, renderer, 1280, 720, 255, 255, 255);
 
 
     // Main running event
