@@ -1,3 +1,5 @@
+// My beginner's program
+
 #include <iostream>
 #include <SDL2/SDL.h>
 
